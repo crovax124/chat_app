@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37549449532",
+    "project_id": "flutter-chat-a4f6e",
+    "storage_bucket": "flutter-chat-a4f6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37549449532:android:04ab7d5d94854f2c29fe39",
+        "android_client_info": {
+          "package_name": "ericisensee.com.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37549449532-2a0hdla2ilg9ekdv0mv55rktm80gdjvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_KdfUVS2R_DDVADzV7FBqYF_jS5VuEJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37549449532-2a0hdla2ilg9ekdv0mv55rktm80gdjvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
